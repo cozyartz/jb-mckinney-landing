@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jb-mckinney-landing.pages.dev/sitemap.xml

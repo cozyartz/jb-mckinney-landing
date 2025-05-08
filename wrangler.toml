@@ -1,0 +1,8 @@
+name = "jb-mckinney-site"
+type = "webpack"
+account_id = "YOUR_ACCOUNT_ID"
+compatibility_date = "2024-05-08"
+
+[site]
+bucket = "./"
+entry-point = "workers-site"
