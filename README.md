@@ -22,7 +22,7 @@ This site was designed and developed in partnership with [Cozyartz Media Group](
 
 This project is deployed via [Cloudflare Pages](https://pages.cloudflare.com) using Wrangler CLI:
 
-```bash
+```bash and updates
 wrangler pages publish ./ --project-name=jb-mckinney-landing
 ```
 
